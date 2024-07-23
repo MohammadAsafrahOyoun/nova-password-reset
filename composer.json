@@ -7,8 +7,15 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.3|^8.0"
+        "php": "^7.3|^8.0",
+        "mohammadasafrahoyoun/nova-password-reset": "dev-main"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/MohammadAsafrahOyoun/nova-password-reset"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Websnack\\ResetPassword\\": "src/"
