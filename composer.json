@@ -8,7 +8,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
-        "mohammadasafrahoyoun/nova-password-reset": "dev-main"
+        "mohammadasafrahoyoun/nova-password-reset": "v1.0.0"
     },
     "repositories": [
         {
