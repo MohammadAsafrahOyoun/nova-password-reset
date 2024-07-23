@@ -16,5 +16,14 @@
     "postcss": "^8.3.11",
     "vue-loader": "^16.8.3"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/MohammadAsafrahOyoun/nova-password-reset"
+    }
+  ],
+  "require": {
+    "mohammadasafrahoyoun/nova-password-reset": "dev-main"
+  }
 }
